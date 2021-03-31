@@ -1,7 +1,6 @@
 {
   "title": "App 1: Livewire Monorepo Test",
   "description": "App 1",
-  "path": "src/app1",
   "videoUrl": "https://youtu.be/dQw4w9WgXcQ?t=5",
   "categories": [],
   "languages": ["HTML"],
